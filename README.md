@@ -1,2 +1,2 @@
 # Netflix_Clone
-Netflix Wwebsite Home Page Clone
+Netflix Website Home Page Clone
