@@ -1,2 +1,2 @@
 # Netflix_Clone
-Netflix Website Home Page Clone
+Responsive Netflix Website Home Page Clone using HTML and CSS
